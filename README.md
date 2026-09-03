@@ -23,7 +23,11 @@
 ## 🏆 Achievements
 
 🥇 **1st Rank – Find the Error (Technical Event)**  
-📜 Certificate: *(Add certificate link here)*  
+📜 Certificate: 
+1. IBM Internships Certificate
+2. AWS Skills Builds Certificate
+3. AI Fundamental Certificate
+4. Wadhwani Foundation: Job Skill Certificate 
 
 ---
 
